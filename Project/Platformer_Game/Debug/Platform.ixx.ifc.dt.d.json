@@ -1,0 +1,10 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\studia\\cp_labs\\cp4\\project\\platformer_game\\platform.ixx",
+        "ProvidedModule": "Platform",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

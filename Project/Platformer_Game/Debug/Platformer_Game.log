@@ -1,0 +1,65 @@
+﻿  Scanning sources for module dependencies...
+  Menu.ixx
+  Compiling...
+  Menu.ixx
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Menu.ixx(43,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Menu.ixx(48,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Menu.ixx(53,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Enemy.cpp
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Enemy.cpp(12,23): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Enemy.cpp(12,20): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Enemy.cpp(28,21): warning C5055: operator '*': deprecated between enumerations and floating-point types
+  Entity.cpp
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(75,23): warning C5055: operator '*': deprecated between enumerations and floating-point types
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(77,20): warning C5055: operator '*': deprecated between enumerations and floating-point types
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(124,18): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(127,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(133,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(141,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(156,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(166,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(178,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(184,40): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(188,35): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(194,19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(195,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(199,20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Entity.cpp(200,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Game.cpp(30,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Game.cpp(30,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Game.cpp(81,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Game.cpp(81,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Game.cpp(134,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(3416,56): warning C4244: 'argument': conversion from '_Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Game.cpp(13): message : see reference to function template instantiation 'std::unique_ptr<Enemy,std::default_delete<Enemy>> std::make_unique<Enemy,float,float,World&,int,0>(float &&,float &&,World &,int &&)' being compiled
+  Platformer_Game.cpp
+  Player.cpp
+  World.cpp
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\World.cpp(28,26): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Platformer_Game.vcxproj -> D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Debug\Platformer_Game.exe

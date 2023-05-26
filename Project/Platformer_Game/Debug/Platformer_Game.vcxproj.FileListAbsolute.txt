@@ -1,0 +1,3 @@
+D:\CP_Labs\CP4\Project\Platformer_Game\Debug\Platformer_Game.exe
+D:\UNI\CP_Labs\CP4\Project\Platformer_Game\Debug\Platformer_Game.exe
+D:\Studia\CP_Labs\CP4\Project\Platformer_Game\Debug\Platformer_Game.exe
